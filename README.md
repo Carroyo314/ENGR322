@@ -20,4 +20,4 @@
 ---
 [Website Link](https://www.example.com)
 
-![alt text](image.jpg)
+![alt text](Screenshot_20260210_132806_Chrome.jpg)
